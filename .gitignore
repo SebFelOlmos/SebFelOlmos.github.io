@@ -1,6 +1,9 @@
-# Quarto temporal files
+# Quarto build & cache
 .quarto/
+**/.quarto/
 **/_site/
+**/listings.json
+**/search.json
 
 # Sistema operativo
 .DS_Store
@@ -10,7 +13,7 @@ Thumbs.db
 .vscode/
 *.code-workspace
 
-# Python (por si usas en el futuro)
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -23,6 +26,6 @@ __pycache__/
 env/
 venv/
 
-# Otros
+# Logs y cache
 *.log
 .cache/
