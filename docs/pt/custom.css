@@ -1,0 +1,51 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-x: hidden;
+}
+
+.quarto-title-block {
+    display: none !important;
+}
+
+#quarto-header {
+    display: none !important;
+}
+
+main.content {
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+}
+
+#quarto-content {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.page-columns {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+footer {
+    background-color: transparent !important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: white !important;
+}
+
+footer .nav-footer {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Títulos almendra/beige en el index */
+h1,
+h2 {
+    color: #f5f5dc !important;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
+}

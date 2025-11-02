@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sebastián Olmos - Anthropology & Complex Systems</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 1rem;
+        }
+        .container {
+            text-align: center;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 3rem 2rem;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            max-width: 600px;
+            width: 100%;
+        }
+        h1 {
+            margin-bottom: 0.5rem;
+            font-size: 2.5rem;
+        }
+        h2 {
+            margin-bottom: 2rem;
+            font-size: 1.2rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        .loading {
+            font-size: 1rem;
+            margin: 0.5rem 0;
+            opacity: 0.8;
+        }
+        .language-links {
+            margin-top: 2.5rem;
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .language-links a {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+        .language-links a:hover {
+            background: #2980b9;
+            transform: translateY(-3px);
+            box-shadow: 0 5px 20px rgba(52, 152, 219, 0.5);
+        }
+        .note {
+            margin-top: 2rem;
+            font-size: 0.85rem;
+            opacity: 0.6;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sebastián Olmos</h1>
+        <h2>Anthropology & Complex Systems</h2>
+        
+        <div class="loading">⏳ Redirecting to your language...</div>
+        <div class="loading">Redirigiendo a tu idioma...</div>
+        <div class="loading">Redirecionando para o seu idioma...</div>
+        
+        <div class="language-links">
+            <a href="es/">🇪🇸 Español</a>
+            <a href="en/">🇬🇧 English</a>
+            <a href="pt/">🇧🇷 Português</a>
+        </div>
+        
+        <div class="note">
+            If you are not redirected automatically, please click your language above.
+        </div>
+    </div>
+
+    <script>
+        window.addEventListener('load', function() {
+            const userLang = (navigator.language || navigator.userLanguage).toLowerCase();
+            
+            setTimeout(function() {
+                if (userLang.startsWith('es')) {
+                    window.location.href = 'es/';
+                } else if (userLang.startsWith('pt')) {
+                    window.location.href = 'pt/';
+                } else {
+                    window.location.href = 'en/';
+                }
+            }, 1000);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+# Quarto temporal files
+/.quarto/
+**/_site/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace
+
+# Python (por si usas en el futuro)
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Otros
+*.log
+.cache/

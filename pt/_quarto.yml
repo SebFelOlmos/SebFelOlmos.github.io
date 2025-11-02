@@ -1,0 +1,40 @@
+project:
+  type: website
+  resources:
+    - images
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer:
+    left: >-
+      &#169; 2025 Sebastián Olmos &#8729; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="https://github.com/SebFelOlmos" title="GitHub" target="_blank" rel="noopener"> {{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://x.com/SebFelOlmos" title="Twitter" target="_blank" rel="noopener">{{< fa brands twitter >}}</a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=es&user=6pBL2DkAAAAJ" title="Google Scholar" target="_blank" rel="noopener">{{< ai google-scholar >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/my-orcid?orcid=0000-0001-6278-2579" title="ORCID" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="http://lattes.cnpq.br/9326829031664245" title="Lattes" target="_blank" rel="noopener">{{< ai lattes >}}</a>
+      <a class="link-dark me-1" href="mailto:jsolmosn@gmail.com" title="Email" target="_blank" rel="noopener">{{< fa solid envelope >}}</a>
+
+  navbar:
+    title: "Sebastián Olmos Núñez" 
+    right:
+      - text: "Sobre mim"
+        href: about.qmd
+      - text: "Publicações"
+        href: Publications/index.qmd
+      - text: "Pesquisa"
+        href: Research/index.qmd
+      - text: "Ensino"
+        href: Teaching/index.qmd
+      - text: "Divulgação"
+        href: Divulgation/index.qmd
+format:
+  html:
+    backgroundcolor: "#faf8f0"
+    linkcolor: "#7b5ba0"
+    mainfont: "Garamond"
+    fontsize: 13pt
+    theme: [cosmo, styles.scss]
+

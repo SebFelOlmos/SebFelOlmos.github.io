@@ -1,0 +1,18 @@
+---
+title: Publications
+format: 
+  html: 
+    page-layout: full
+listing: 
+    contents: publications.yml
+    type: table
+    max-description-length: 100
+    fields: [title, authors, keywords, year, journal]
+    field-display-names: 
+      title: Title
+      authors: Authors
+      keywords: Key-words
+      year: Year
+      journal: Journal
+page-layout: full
+---

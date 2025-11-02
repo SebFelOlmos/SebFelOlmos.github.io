@@ -1,0 +1,24 @@
+---
+format:
+  html:
+    toc: false
+    css: custom.css
+    page-layout: custom
+---
+
+::: {style="background-image: url('images/index1.png'); background-size: cover; background-position: center; background-attachment: fixed; min-height: 100vh; width: 100vw; position: fixed; top: 0; left: 0; padding: 3rem 1rem; display: flex; align-items: center; justify-content: center;"}
+
+::: {style="background-color: rgba(0, 0, 0, 0.7); padding: 3rem; border-radius: 10px; max-width: 800px; color: #f5f5dc; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);"}
+
+# Sebastián Olmos
+## Anthropology & Complex Systems
+
+I am interested in the intersections between **human ecology, cooperation, and social complexity**, combining ethnographic, archaeological, and modeling approaches.  
+
+[More about me →](about.qmd){.btn .btn-primary}
+
+This is the English version of the site... [Pero tambipen está en español!](../es/index.html) [E em português!](../pt/index.html)
+
+:::
+
+:::

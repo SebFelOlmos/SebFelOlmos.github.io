@@ -1,0 +1,38 @@
+---
+title: "Juan Sebastián Felipe Olmos Núñez"
+subtitle: "Anthropologist"
+image: images/profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/SebFelOlmos
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/SebFelOlmos
+    - icon: file-earmark-pdf
+      text: CV
+      href: CV\cv.pdf
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=es&user=6pBL2DkAAAAJ
+    - text: "{{< ai lattes >}} Lattes"
+      href: http://lattes.cnpq.br/9326829031664245
+page-layout: full
+---
+
+## About me!
+
+I am Juan Sebastián Felipe Olmos Núñez. I’m an anthropologist who finds new ways to search for answers through **Complexity Science**—my second love. My main interest lies in understanding how we, as humans, transform, and are transformed by, our environment. This curiosity has led me to study different **socioecological systems** (from present to past!) from different perspectives.
+
+In my research, I have asked lots of questions! Some of these include: Which social and environmental factors are related to plant diversity? and how does social complexity evolve over time under environmental pressures? To explore these and other questions, I ground my work in **evolutionary anthropology** and, thus, I combine mathematical modeling tools with ethnographic approaches.
+
+Additional, relevant, and fundamental information: My team is Santa fe 🔴⚪, I like changua 🍵, dogs 🐕, pokemon 🐦‍🔥, and music 𝄞.
+
+## Research topics
+- Hunter-gatherer ethnology and archaeology
+- Cooperation and social complexity
+- Socioecological systems
+- Agrobiodiversity and plant management
+- Human social networks and network analysis
+- Ethnomusicology and anthropology of art

@@ -1,0 +1,45 @@
+{
+  "index.qmd": {
+    "index.html": "73dd3d4a"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "9c750c89"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "51a839a3"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "efceec8c"
+  },
+  "projects/index.qmd": {
+    "index.html": "2051f4a7"
+  },
+  "en/index.qmd": {
+    "index.html": "95dbe9bc"
+  },
+  "es/index.qmd": {
+    "index.html": "13d9a143"
+  },
+  "pt/index.qmd": {
+    "index.html": "679cfa51"
+  },
+  "Divulgation/index.qmd": {
+    "index.html": "7610adc3"
+  },
+  "Publications/index.qmd": {
+    "index.html": "8b89beec"
+  },
+  "Research/index.qmd": {
+    "index.html": "e865b258"
+  },
+  "Teaching/index.qmd": {
+    "index.html": "4354ff4b"
+  },
+  "CV/cv.qmd": {
+    "cv.tex": "789ee5ca",
+    "cv.html": "ed0b68e3"
+  },
+  "about.qmd": {
+    "about.html": "716bc689"
+  }
+}

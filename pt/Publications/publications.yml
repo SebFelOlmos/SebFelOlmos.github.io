@@ -1,0 +1,16 @@
+- title: Preserving agrobiodiversity in traditional socioecological systems. the role of kinship and inheritance systems.
+  authors: Juan Sebastián Felipe Olmos Núñez, Cristina Adams, Vitor Hirata Sanches, Fernando Fagundes Ferreira
+  path: https://osf.io/preprints/socarxiv/d98hw_v1
+  image:
+  abstract: The loss of crop diversity represents a critical challenge for global food security and small-scale farming communities’ resilience and adaptation to climate change. Agrobiodiversity depends on multiple ecological and socio-cultural interconnected processes embedded in complex socioecological systems. This dynamic behavior has been recently addressed by previous studies, but this is the first one to address how kinship systems and inheritance norms affect agrobiodiversity at the community level over time. Here we employed an agent-based-model to examine how they both influence cassava (Manihot esculenta) diversity in traditional socioecological systems. We simulated the vertical diffusion of cassava varieties in three kinship systems (Endogamy, Dual Organization and Generalized Exchange), characterized here by unilineal and patrilineal descent, and implemented a null model in which inheritance occurred at random. Only asexual reproduction was implemented. Given the model’s constraints, it successfully captured the expected loss of diversity over time while also demonstrating that social norms slow down this process. Furthermore, we identified the distribution of varieties among households — particularly the number of varieties each household maintains — as a key determinant of diversity persistence at the community level. Our study highlights the importance of exploring—both ethnographically and theoretically—the complementarities between horizontal and vertical transmission, as well as their interactions with biological factors. Building on this, future implementations should integrate cassava sexual reproduction and other household exchange dynamics to provide a more comprehensive understanding of how diversity is maintained in traditional agricultural systems.
+  keywords: Agent-based model; Agrobiodiversity; Cassava; Kinship systems; Diffusio
+  year: 2025
+  journal: SocArXiv, preprint
+- title: Entender al “monte”. el brote del diálogo entre la comunidad indígena de San Antonio de Calarma y su entorno
+  authors: Juan Sebastián Felipe Olmos Núñez
+  path: https://dialnet.unirioja.es/servlet/articulo?codigo=8081849
+  image: images/publications/monte.jpg
+  abstract: In this article, I address the notion of “el monte” (“the wilderness”) as understood by the Pijao at San Antonio de Calarma, an indigenous reservation in Tolima, Colombia. I analyze “el monte” first as an actor and a “self” that emerges from the dialogues between the Pijao and their environment, and as a non-human actor that relates to humans. Based on several stories, observation and social cartographies and my fieldwork at Calarma, I analyze how “el monte” shapes practices following the requirement of certain procedures. reforestation, the choice of cultivation areas, and the harvesting of plants useful for traditional medicine.
+  keywords: “El monte” (the Wilderness), environment, human and non-human Dialogue, Pijao, San Antonio de Calarma Reservation, territory, Tolima
+  year: 2020
+  journal: Maguaré
