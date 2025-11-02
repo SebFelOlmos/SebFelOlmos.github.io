@@ -13,7 +13,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://x.com/SebFelOlmos
     - icon: file-earmark-pdf
       text: CV
-      href: ./CV/cv.pdf
+      href: es/CV/cv.pdf
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?hl=es&user=6pBL2DkAAAAJ
     - text: "{{< ai lattes >}} Lattes"
